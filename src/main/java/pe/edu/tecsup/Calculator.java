@@ -13,4 +13,8 @@ public class Calculator {
 
 
     }
+
+    public int multi(int i, int j) {return i*j;}
+
+    public int div(int i, int j) {return i/j;}
 }
